@@ -24,7 +24,7 @@ LLM을 활용하여 문서 요약과 카테고리 분류 결과를 제공하는 
 아래 이미지는 전체 서비스 흐름을 나타냅니다.
 
 <p align="center">
-  <img src="./profile/assets/project-structure.png" alt="Project Flow" width="720" />
+    <img width="1024" height="1536" alt="흐름도" src="https://github.com/user-attachments/assets/d6c6580c-bf65-4854-abfa-b4697a1ff926" />
 </p>
 
 ---
