@@ -12,7 +12,7 @@ LLM을 활용하여 문서 요약과 카테고리 분류 결과를 제공하는 
 | Repository | Description | Status |
 | --- | --- | --- |
 | [project-sub](https://github.com/project-sub/project-sub) | 사용자 화면 및 파일 업로드 UI / FastAPI 기반 API 서버 | 완료
-| `docs` | 프로젝트 문서 및 설계 ppt | 예정 |
+| [document](https://github.com/project-sub/document) | 프로젝트 발표 자료 pdf 및 시연 영상 | 완료 |
 
 ---
 
